@@ -31,7 +31,6 @@ Graduado licenciatura em Informática e estudante de bacharelado em sistemas de 
 </p>
 <p>                                                                                             
 🛠 Conte comigo.
-<img align="center" width="7%" src="https://media4.giphy.com/media/iJsjsm6dhNPiQBvztq/200w.webp?cid=ecf05e47jc19wtj5p47ikodhz42fdlyiii8psf7699hrlpp6&ep=v1_stickers_search&rid=200w.webp&ct=s" />
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,react,cs,java,spring," />
@@ -40,7 +39,6 @@ Graduado licenciatura em Informática e estudante de bacharelado em sistemas de 
 </p>
 &nbsp;
 🛠 Participações em projetos
-<img align="center" width="7%" src="https://media4.giphy.com/media/iJsjsm6dhNPiQBvztq/200w.webp?cid=ecf05e47jc19wtj5p47ikodhz42fdlyiii8psf7699hrlpp6&ep=v1_stickers_search&rid=200w.webp&ct=s" />
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=arduino,tensorflow,raspberrypi,azure,aws" />
